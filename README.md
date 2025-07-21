@@ -24,3 +24,11 @@ This project performs exploratory data analysis (EDA) on Netflix’s content lib
    - Category
 
 ---
+## 📂 Project Structure
+
+```plaintext
+📁 Netflix_Analysis/
+├── Netflix.ipynb               # Jupyter notebook with complete EDA
+├── Data/
+│   └── netflix_titles.csv      # Netflix dataset (Kaggle)
+├── README.md                   # This file                 # Optional: store word clouds, charts
